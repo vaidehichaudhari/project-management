@@ -60,7 +60,7 @@ const ProjectTable = () => {
 
       {/* Table */}
       <table className="table table-bordered table-striped shadow">
-        <thead className="table-dark">
+        <thead className="table-primary">
           <tr>
             <th>ID</th>
             <th>Project Name</th>
